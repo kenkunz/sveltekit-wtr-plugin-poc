@@ -1,0 +1,13 @@
+{
+  "name": "sveltekit-wtr-plugin-poc",
+  "version": "0.0.1",
+  "description": "SvelteKit Web Test Runner Plugin (POC)",
+  "type": "module",
+  "main": "index.js",
+  "author": "Ken Kunz",
+  "license": "MIT",
+  "peerDependencies": {
+    "@sveltejs/kit": "^1.0.0-next.1",
+    "@web/test-runner": "^0.13.5"
+  }
+}
